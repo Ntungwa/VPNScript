@@ -1,6 +1,6 @@
 Executing Command :
 ```sh
-bash <(curl -fsSL https://raw.githubusercontent.com/Ntungwa/VPNScript/refs/heads/main/InstallerScript.sh)
+bash <(curl -fsSL https://raw.githubusercontent.com/Ntungwa/VPNScript/main/InstallerScript.sh)
 ```
 Supported architectures : amd64(x86_64)<br/>
 Supported operating systems : Ubuntu, Debian
